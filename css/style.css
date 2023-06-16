@@ -581,7 +581,7 @@ img{
 
 .nav-menu .copyright-text{
     position: absolute;
-    left: -60px;
+    left: -40px;
     top: 50%;
     font-size: 15px;
     color: var(--text-black-600);
